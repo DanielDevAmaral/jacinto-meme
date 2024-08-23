@@ -1,9 +1,9 @@
 // App.js
 import React from 'react';
 import './App.css';
-import musicImage1 from './jass.png';
-import musicImage2 from './swag.png'; // Nova imagem
-import musicFile from './song.MP3';
+import musicImage1 from './cass.png';
+import musicImage2 from './rich.png'; // Nova imagem
+import musicFile from './0823.MP3';
 
 class App extends React.Component {
   constructor(props) {
